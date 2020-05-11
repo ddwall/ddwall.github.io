@@ -11,9 +11,9 @@ document.write('\
 					<tr>\
 						<nav>\
 							<td><a href="/" id="Home">Home</a></td>\
-							<td><a href="Trampoline/" id="Trampoline">Trampoline</a></td>\
-							<td><a href="DMT/" id="DMT">Double Mini Trampoline</a></td>\
-							<td><a href="Tumbling/" id="Tumbling">Tumbling</a></td>\
+							<td><a href="trampoline/" id="Trampoline">Trampoline</a></td>\
+							<td><a href="dmt/" id="DMT">Double Mini Trampoline</a></td>\
+							<td><a href="tumbling/" id="Tumbling">Tumbling</a></td>\
 						</nav>\
 					</tr>\
 				</table>\
