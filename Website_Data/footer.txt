@@ -1,0 +1,8 @@
+document.write('\
+<div class="footer">\
+	<p>\
+		Maintained by Trevor Stirling\
+		<span style="float:right;"><a href="mailto:trampolineddwall@gmail.com">Email</a> me with any comments, errors, or submissions</span>\
+	</p>\
+</div>\
+')

@@ -1,0 +1,23 @@
+document.write('\
+	<div class="header">\
+			<br>\
+			<center>\
+				<table>\
+					<tr>\
+						<th><span class="header_title">International Difficulty Wall</span></th>\
+					</tr>\
+				</table>\
+				<table style="width:70%">\
+					<tr>\
+						<nav>\
+							<td><a href="/" id="Home">Home</a></td>\
+							<td><a href="Trampoline/" id="Trampoline">Trampoline</a></td>\
+							<td><a href="DMT/" id="DMT">Double Mini Trampoline</a></td>\
+							<td><a href="Tumbling/" id="Tumbling">Tumbling</a></td>\
+						</nav>\
+					</tr>\
+				</table>\
+			</center>\
+			<br>\
+		</div>\
+')
