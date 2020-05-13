@@ -75,6 +75,8 @@ body {
   	position: absolute;
 	right: 23px;
 	display: none;
+	max-height: 60vh;
+	overflow-y: scroll;
 }
 .filters-container p {
 	text-decoration: underline;
