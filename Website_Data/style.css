@@ -143,6 +143,9 @@ body {
 .show {
 	display: inline-block;
 }
+.flag {
+	vertical-align: middle;
+}
 .flag-image {
 	vertical-align: middle;
 	width: 25px;
@@ -157,20 +160,21 @@ body {
 }
 .play {
 	width: 20px;
-	position: relative;
+	min-width: 20px;
+	background-image: url('play_black.png');
+	background-size: 20px;
+	background-repeat: no-repeat;
+	background-position: center;
+	transition: background-image 0.5s ease-in-out;
 }
-.play_button img{
-	vertical-align: middle;
-	width: 20px;
-	position: absolute;
-	left: 1px;
-	top: 7px;
+.play:hover {
+	background-image: url('play_green.png');
+    
 }
-.play_button .top{
-	transition: opacity 0.5s ease-in-out;
-}
-.play .top:hover {
-	opacity:0;
+.play a {
+	display: block;
+	width: 100%;
+	text-decoration: none;
 }
 .dd_date {
 	line-height: 0.4em;
