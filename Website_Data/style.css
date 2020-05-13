@@ -145,7 +145,7 @@ body {
 	vertical-align: middle;
 	width: 25px;
 }
-.name a {
+.name span {
 	color: var(--black);
 	font-size: 1.2em;
 	text-decoration: none;
@@ -153,8 +153,22 @@ body {
 	vertical-align: middle;
 	transition: .5s;
 }
-.name a:hover {
-	text-decoration: underline;
+.play {
+	width: 20px;
+	position: relative;
+}
+.play_button img{
+	vertical-align: middle;
+	width: 20px;
+	position: absolute;
+	left: 1px;
+	top: 7px;
+}
+.play_button .top{
+	transition: opacity 0.5s ease-in-out;
+}
+.play .top:hover {
+	opacity:0;
 }
 .dd_date {
 	line-height: 0.4em;
