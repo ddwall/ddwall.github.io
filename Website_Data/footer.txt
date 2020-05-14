@@ -2,7 +2,8 @@ document.write('\
 <div class="footer">\
 	<p>\
 		Maintained by Trevor Stirling\
-		<span style="float:right;"><a href="mailto:trampolineddwall@gmail.com">Email</a> me with any comments, errors, or submissions</span>\
+		<span style="float:right;"><a href="mailto:trampolineddwall@gmail.com">Email</a> me with any comments, errors, or submissions</span><br>\
+		Special thanks to Dafne Navarro and Jake Cranham\
 	</p>\
 </div>\
 ')
