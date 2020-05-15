@@ -1,9 +1,15 @@
 document.write('\
 <div class="footer">\
-	<p>\
-		Maintained by Trevor Stirling\
-		<span style="float:right;"><a href="mailto:trampolineddwall@gmail.com">Email</a> me with any comments, errors, or submissions</span><br>\
-		Special thanks to Dafne Navarro and Jake Cranham\
-	</p>\
+	<center>\
+		<table>\
+			<tr>\
+				<td>Maintained by Trevor Stirling</td>\
+				<td style="text-align:right"><a href="mailto:trampolineddwall@gmail.com">Email</a> me with any comments, errors, or submissions</td>\
+			</tr>\
+			<tr>\
+				<td>Special thanks to Dafne Navarro and Jake Cranham</td>\
+			</tr>\
+		</table>\
+	</center>\
 </div>\
 ')
