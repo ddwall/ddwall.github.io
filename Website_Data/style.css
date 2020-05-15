@@ -219,11 +219,11 @@ body {
 /*Style for footer*/
 .footer {
 	color: var(--white);
-	font-size: 1.5em;
-	line-height: 1.5em;
+	font-size: 1em;
+	line-height: 1em;
 }
 .footer p {
-    margin: 0 auto;
+    	margin: 0 auto;
 	width: 90%;
 }
 .footer a {
